@@ -26,4 +26,8 @@
 
 Декоратор много используется в Java IO классах, например, `FileReader`, `BufferedReader`
 
-https://www.digitalocean.com/community/tutorials/decorator-design-pattern-in-java-example 
+https://www.digitalocean.com/community/tutorials/decorator-design-pattern-in-java-example
+## Core
+### JIT
+JIT (Just-in-time compilation) - компиляция на лету или динамическая компиляция - технология увеличения производительности программных систем, использующих байт-код, путем компиляции байт-кода в машинный код во время работы программы.
+В основном отвечает за оптимизацию производительности приложений во время выполнения за счет использования ранее скомпилированного байт-кода, который не нужно интерпретировать.

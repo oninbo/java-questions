@@ -74,6 +74,4 @@ https://javarush.com/quests/lectures/questsyntaxpro.level12.lecture01
 - **private** — доступ к компоненту только из этого класса, в котором объявлен;
 - **protected** — поля доступны всем классам внутри пакета, а также всем классам-наследникам вне пакета.
 
-![image](https://user-images.githubusercontent.com/124242061/218054419-a7e51043-53db-4faa-97b9-6db252a3ec6d.png)
-![image](https://user-images.githubusercontent.com/124242061/218054564-4d240ffe-423c-4a1d-8a79-ef093a29020a.png)
 https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
